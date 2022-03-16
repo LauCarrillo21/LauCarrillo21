@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LauCarrillo21
 - 👀 I’m interested in front end development, learning languages and contributing to the world.
 - 🌱 I’m currently learning react.
-- 💞️ I’m looking to collaborate on great web projects focused on providing the best solutions possible.
+- 💞️ I’m looking to collaborate on great web projects focused on providing the best solutions pto the users.
 - 📫 How to reach me ...
 
 <!---
